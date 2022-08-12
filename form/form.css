@@ -1,0 +1,63 @@
+body{
+    background-image: url(background.jpg);
+
+    }
+
+
+    section{
+        width: 500px;
+        background-color: rgb(3, 3, 49);
+        color: white;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 50px;
+        color: powderblue;
+    
+    }
+
+    .head{
+        text-align: center;
+    }
+
+    .submit{
+        text-align: center;
+        background-color: brown;
+        width: 500px;
+        border-block: none;
+    }
+
+    #Name{
+        width: 500px;
+    }
+
+    #comment{
+        width: 500px;
+        height: 50px;
+    }
+
+    #Age{
+        width: 500px;
+    }
+
+    #Email{
+        width: 500px;
+    }
+
+    #opt{
+        width: 500px;
+    }
+
+    .que{
+        width: 500px;
+    }
+
+    #norm{
+        width: 500px;
+    }
+
+   
+
+
+
+
+
